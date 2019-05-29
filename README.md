@@ -30,4 +30,4 @@ Clone the project via Intellil IDEA and import mysql.db file.
 
 ## License
 
-<Modern POS - Hibernate>  is [MIT](License) licensed, as found in the LICENSE file.
+Modern POS - Hibernate is [MIT](License) licensed, as found in the LICENSE file.
